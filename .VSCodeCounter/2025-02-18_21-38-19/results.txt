@@ -1,0 +1,37 @@
+Date : 2025-02-18 21:38:19
+Directory : d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion
+Total : 12 files,  417 codes, 100 comments, 143 blanks, all 660 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         11 |        386 |        100 |        127 |        613 |
+| Markdown |          1 |         31 |          0 |         16 |         47 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |         12 |        417 |        100 |        143 |        660 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                               | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\README.md             | Markdown |         31 |          0 |         16 |         47 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\alien.py              | Python   |         28 |          6 |          7 |         41 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\alien_invasion.py     | Python   |         33 |         16 |         14 |         63 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\bullet.py             | Python   |         21 |          4 |         10 |         35 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\button.py             | Python   |         21 |          4 |          9 |         34 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\game_functions.py     | Python   |        148 |         32 |         38 |        218 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\game_state.py         | Python   |          8 |          0 |          2 |         10 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\scoreboard.py         | Python   |         23 |          8 |          7 |         38 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\settings.py           | Python   |         29 |          7 |          7 |         43 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\ship.py               | Python   |         29 |          4 |         12 |         45 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\tempCodeRunnerFile.py | Python   |         21 |         11 |         12 |         44 |
+| d:\Users\LPY\Desktop\创作输出\python基础\python-project\alien_invasion\test.py               | Python   |         25 |          8 |          9 |         42 |
+| Total                                                                                  |          |        417 |        100 |        143 |        660 |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

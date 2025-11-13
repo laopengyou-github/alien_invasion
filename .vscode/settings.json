@@ -1,0 +1,8 @@
+{
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "88"], // 可选：自定义 Black 参数
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.analysis.typeCheckingMode": "basic"
+}
